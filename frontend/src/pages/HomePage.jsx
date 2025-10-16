@@ -54,6 +54,7 @@ const HomePage = () => {
           </div>
         )}
       </div>
+      <h1 className="text-2xl">Hello</h1>
     </div>
   );
 };
